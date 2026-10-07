@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm current working on a novel computational method for inferring cell-cell communication from spatial transcriptomics.
+
+## Research 
+I am a member of the [Kuang Lab](https://compbio.cs.umn.edu/). There, I have been building machine learning methods based primarily on custom tensor machine learning algorithms that take tensor factorization further than you've likely ever seen before in service of deriving insights into spatial transcriptomics. 
 <!--
 **quocodile/quocodile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
